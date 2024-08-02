@@ -1,0 +1,6519 @@
+{
+  "outbounds": [
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 英国_Telegram@kxswa § 0",
+      "server": "5.44.249.43",
+      "server_port": 3306,
+      "password": "��",
+      "tls": {
+        "enabled": true,
+        "server_name": "n2.gladns.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 英国_Telegram@kxswa 2 § 1",
+      "server": "51.38.65.155",
+      "server_port": 443,
+      "password": "1d7692c0-f51c-11ee-91eb-1239d0255272",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 英国_Telegram@kxswa 3 § 2",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12069,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 英国_Telegram@kxswa 4 § 3",
+      "server": "52.56.149.226",
+      "server_port": 14158,
+      "password": "ufXl07N7Z4TD",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 英国_Telegram@kxswa 5 § 4",
+      "server": "3.8.212.165",
+      "server_port": 14140,
+      "password": "AEjv67P4yuwI",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 英国_Telegram@kxswa 6 § 5",
+      "server": "51.103.233.181",
+      "server_port": 37576,
+      "method": "chacha20-ietf-poly1305",
+      "password": "GeXlCLj6oV0CDlszmbL1LK"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇮🇹 意大利_Telegram@kxswa § 6",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12062,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa § 7",
+      "server": "188.166.252.91",
+      "server_port": 443,
+      "password": "I4bO2YDEgs",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 2 § 8",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12021,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 3 § 9",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12022,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 4 § 10",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12023,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 5 § 11",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12024,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 6 § 12",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12025,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 7 § 13",
+      "server": "13.229.87.253",
+      "server_port": 443,
+      "method": "aes-256-cfb",
+      "password": "amazonskr05"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 8 § 14",
+      "server": "54.254.213.231",
+      "server_port": 14169,
+      "password": "WAoC7l92(T5q",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 9 § 15",
+      "server": "104.248.147.205",
+      "server_port": 12931,
+      "method": "chacha20-ietf-poly1305",
+      "password": "8vmtvmJwtgUsyp3pDgQtO0"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 10 § 16",
+      "server": "188.166.222.203",
+      "server_port": 22893,
+      "method": "chacha20-ietf-poly1305",
+      "password": "xz62asWhDzz0GKtJnysPFU"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 11 § 17",
+      "server": "206.189.89.26",
+      "server_port": 28476,
+      "method": "chacha20-ietf-poly1305",
+      "password": "cjOPiq4ew9p4tShln7eI49"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 12 § 18",
+      "server": "chjs.lydurlclub.top",
+      "server_port": 443,
+      "password": "507ca9a0-2d8e-4b65-8763-82dfbdbd599f",
+      "tls": {
+        "enabled": true,
+        "server_name": "chjs.lydurlclub.top",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 13 § 19",
+      "server": "sg-full.privateip.net",
+      "server_port": 443,
+      "password": "9e21d1ce-7bcf-4733-bc02-f47b1bbc76c4",
+      "tls": {
+        "enabled": true,
+        "server_name": "sg-full.privateip.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 14 § 20",
+      "server": "sg-full.privateip.net",
+      "server_port": 443,
+      "password": "af7d4ea7-e793-4030-9766-9a13e1f099f5",
+      "tls": {
+        "enabled": true,
+        "server_name": "sg-full.privateip.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇸🇬 新加坡_Telegram@kxswa 15 § 21",
+      "server": "104.248.147.205",
+      "server_port": 16365,
+      "uuid": "f2e0c7f3-a2fc-483b-c649-655a28b0f425",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 香港_Telegram@kxswa § 22",
+      "server": "183.232.139.24",
+      "server_port": 40081,
+      "password": "MfqALmAJ",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 香港_Telegram@kxswa 2 § 23",
+      "server": "36.151.195.77",
+      "server_port": 31666,
+      "password": "MfqALmAJ",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 香港_Telegram@kxswa 3 § 24",
+      "server": "cn1.cdn.xfltd-cdn.top",
+      "server_port": 12001,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 香港_Telegram@kxswa 4 § 25",
+      "server": "cn1.cdn.xfltd-cdn.top",
+      "server_port": 12002,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 香港_Telegram@kxswa 5 § 26",
+      "server": "cn1.cdn.xfltd-cdn.top",
+      "server_port": 12003,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 香港_Telegram@kxswa 6 § 27",
+      "server": "cn1.cdn.xfltd-cdn.top",
+      "server_port": 12004,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 香港_Telegram@kxswa 7 § 28",
+      "server": "cn1.cdn.xfltd-cdn.top",
+      "server_port": 12005,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 香港_Telegram@kxswa 8 § 29",
+      "server": "cn1.cdn.xfltd-cdn.top",
+      "server_port": 12006,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 香港_Telegram@kxswa 9 § 30",
+      "server": "183.232.139.24",
+      "server_port": 51017,
+      "password": "llyEnxJlVC",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇰 香港_Telegram@kxswa 10 § 31",
+      "server": "183.232.139.24",
+      "server_port": 54367,
+      "password": "yEnxJlVC",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港_Telegram@kxswa 11 § 32",
+      "server": "218.250.217.111",
+      "server_port": 81,
+      "method": "aes-128-gcm",
+      "password": "a-wym4ovY4Yw"
+    },
+    {
+      "type": "vmess",
+      "tag": "🇭🇰 香港_Telegram@kxswa 12 § 33",
+      "server": "xctransfer1st.cokecloud.top",
+      "server_port": 33575,
+      "uuid": "1de8f496-378f-4979-ba17-500fd9fee228",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇹🇷 土耳其_Telegram@kxswa § 34",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12064,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇹🇷 土耳其_Telegram@kxswa 2 § 35",
+      "server": "185.123.101.241",
+      "server_port": 989,
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇳 台湾_Telegram@kxswa § 36",
+      "server": "cn1.cdn.xfltd-cdn.top",
+      "server_port": 12011,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇳 台湾_Telegram@kxswa 2 § 37",
+      "server": "cn1.cdn.xfltd-cdn.top",
+      "server_port": 12012,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "瑞典_Telegram@kxswa § 38",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12071,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "瑞典_Telegram@kxswa 2 § 39",
+      "server": "185.146.173.252",
+      "server_port": 80,
+      "uuid": "5d214f53-1332-449f-ad0e-0a1888ef5479",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "dl2.arsha.разведки守望者.hаблюдатели.watchers.aгент.偵察探員.wonkacapitano.buzz."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 日本_Telegram@kxswa § 40",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12031,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 日本_Telegram@kxswa 2 § 41",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12032,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 日本_Telegram@kxswa 3 § 42",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12033,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 日本_Telegram@kxswa 4 § 43",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12034,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 日本_Telegram@kxswa 5 § 44",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12035,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 日本_Telegram@kxswa 6 § 45",
+      "server": "13.230.223.128",
+      "server_port": 14137,
+      "password": "ZMCspvkCKgo7",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 日本_Telegram@kxswa 7 § 46",
+      "server": "13.231.214.84",
+      "server_port": 14149,
+      "password": "CXXBQ52dEhFJ",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 日本_Telegram@kxswa 8 § 47",
+      "server": "13.231.52.144",
+      "server_port": 14143,
+      "password": "�\\(�}\u000f",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 尼日利亚_Telegram@kxswa § 48",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12073,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa § 49",
+      "server": "104.17.215.2",
+      "server_port": 443,
+      "password": "669d0ac7b5b64ebbb1abb75d5d540a5c",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 2 § 50",
+      "server": "132.145.208.20",
+      "server_port": 443,
+      "password": "9Mdw86d7Cz",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 3 § 51",
+      "server": "172.232.62.234",
+      "server_port": 443,
+      "password": "88503a0a-3c8e-42ce-8fff-f67fa3171a1e",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国_Telegram@kxswa 4 § 52",
+      "server": "184.170.241.194",
+      "server_port": 443,
+      "method": "aes-128-cfb",
+      "password": "shadowsocks"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国_Telegram@kxswa 5 § 53",
+      "server": "69.50.93.100",
+      "server_port": 8000,
+      "method": "aes-256-gcm",
+      "password": "KixLvKzwjekG00rm"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国_Telegram@kxswa 6 § 54",
+      "server": "69.50.93.100",
+      "server_port": 9101,
+      "method": "aes-256-gcm",
+      "password": "e4FCWrgpkji3QY"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国_Telegram@kxswa 7 § 55",
+      "server": "69.50.93.100",
+      "server_port": 8009,
+      "method": "aes-256-gcm",
+      "password": "XKFKl2rULjIp74"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 8 § 56",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12051,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 9 § 57",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12052,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 10 § 58",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12053,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国_Telegram@kxswa 11 § 59",
+      "server": "52.33.38.192",
+      "server_port": 443,
+      "method": "aes-256-cfb",
+      "password": "amazonskr05"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 12 § 60",
+      "server": "13.38.80.47",
+      "server_port": 14145,
+      "password": "HBdkZ6YvbHTt",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 13 § 61",
+      "server": "13.36.243.134",
+      "server_port": 14169,
+      "password": "Xs7rv9VfTG8q",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 14 § 62",
+      "server": "18.171.206.240",
+      "server_port": 14140,
+      "password": ")QJ1evDg(Y8T",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 15 § 63",
+      "server": "13.40.150.102",
+      "server_port": 14137,
+      "password": "nOVG262Z(VhF",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 16 § 64",
+      "server": "3.239.183.210",
+      "server_port": 14138,
+      "password": "KdQaxvSunD1h",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 17 § 65",
+      "server": "3.220.164.158",
+      "server_port": 14136,
+      "password": "c8V80NW2ywto",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 18 § 66",
+      "server": "98.80.202.201",
+      "server_port": 14141,
+      "password": "fkq7BOkxidTs",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 19 § 67",
+      "server": "47.128.147.74",
+      "server_port": 14133,
+      "password": "JcJnM6EB0qaF",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 20 § 68",
+      "server": "13.212.4.203",
+      "server_port": 14151,
+      "password": "gYTad9yF)xQx",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 21 § 69",
+      "server": "47.129.7.180",
+      "server_port": 14138,
+      "password": "qVIxM)4dILuc",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 22 § 70",
+      "server": "52.40.81.35",
+      "server_port": 14141,
+      "password": "xrtRE2dl(hhy",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 23 § 71",
+      "server": "54.212.103.62",
+      "server_port": 14161,
+      "password": "PKvWJhPxD9th",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 24 § 72",
+      "server": "18.236.63.146",
+      "server_port": 14144,
+      "password": "sxSKz78xnXuD",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 25 § 73",
+      "server": "34.211.114.118",
+      "server_port": 14160,
+      "password": "UMLTqQ9lNkF7",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 26 § 74",
+      "server": "35.89.236.209",
+      "server_port": 14151,
+      "password": "OWH6al)QG1Zv",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国_Telegram@kxswa 27 § 75",
+      "server": "167.172.65.242",
+      "server_port": 6302,
+      "method": "chacha20-ietf-poly1305",
+      "password": "fkUMvTOGamZERcLKlFwKB0"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国_Telegram@kxswa 28 § 76",
+      "server": "51.158.99.62",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "pX8XhQ2kuASpdgqE3MqHZg"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 29 § 77",
+      "server": "sg.mjt000.com",
+      "server_port": 443,
+      "password": "d0774966-fb63-4aca-9478-16c3f32be220",
+      "tls": {
+        "enabled": true,
+        "server_name": "sg.mjt000.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 30 § 78",
+      "server": "waphk.mjt000.com",
+      "server_port": 443,
+      "password": "d0774966-fb63-4aca-9478-16c3f32be220",
+      "tls": {
+        "enabled": true,
+        "server_name": "waphk.mjt000.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国_Telegram@kxswa 31 § 79",
+      "server": "23.157.40.19",
+      "server_port": 2376,
+      "method": "aes-256-gcm",
+      "password": "faBAoD54k87UJG7"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国_Telegram@kxswa 32 § 80",
+      "server": "169.197.142.216",
+      "server_port": 7002,
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 美国_Telegram@kxswa 33 § 81",
+      "server": "fr2-full.privateip.net",
+      "server_port": 443,
+      "password": "88503a0a-3c8e-42ce-8fff-f67fa3171a1e",
+      "tls": {
+        "enabled": true,
+        "server_name": "fr2-full.privateip.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国_Telegram@kxswa 34 § 82",
+      "server": "169.197.142.216",
+      "server_port": 6679,
+      "method": "aes-256-gcm",
+      "password": "TEzjfAYq2IjtuoS"
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 35 § 83",
+      "server": "104.16.67.38",
+      "server_port": 2052,
+      "uuid": "a1655f51-1e20-4a92-8a11-b7ca30a7a353",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/afrhms07.xfixedfloat.cfd/linkws",
+        "headers": {
+          "Host": "7hss-butterfly-d4c3.fijetem432.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 36 § 84",
+      "server": "russia.com",
+      "server_port": 8880,
+      "uuid": "06d65689-a12a-467c-9ff8-0363fe90c0b4",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/api/v3/download.getFile",
+        "headers": {
+          "Host": "sssub.v2.001.ssrsub.com"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 37 § 85",
+      "server": "www.speedtest.net",
+      "server_port": 2052,
+      "uuid": "01574712-f9e7-4787-b990-09d105e7b579",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/@irvpnn,@irvpnn,@irvpnn,@irvpnn",
+        "headers": {
+          "Host": "22d.irvn.debian.🤣6.6.1b71.8.fxp.debian.org😳😳.speedtshest.net.列列男事的事列上赛男.boland-sho-tokhm-sag.cyou."
+        },
+        "max_early_data": 1024,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 38 § 86",
+      "server": "visa.com",
+      "server_port": 80,
+      "uuid": "4445b5c2-d5cb-45f6-a139-f96978f7bc95",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/4445b5c2-d5cb-45f6-a139-f96978f7bc95-vmess",
+        "headers": {
+          "Host": "beans-foto-hire-colleague.trycloudflare.com"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 39 § 87",
+      "server": "104.19.46.33",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 40 § 88",
+      "server": "104.19.32.216",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 41 § 89",
+      "server": "104.19.47.22",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 42 § 90",
+      "server": "104.19.45.35",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 43 § 91",
+      "server": "104.20.17.186",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip11.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 44 § 92",
+      "server": "104.19.21.63",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip11.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 45 § 93",
+      "server": "104.19.47.77",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 46 § 94",
+      "server": "104.19.21.230",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 47 § 95",
+      "server": "104.19.46.103",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 48 § 96",
+      "server": "104.19.123.11",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 49 § 97",
+      "server": "104.19.57.4",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 50 § 98",
+      "server": "104.19.46.36",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 51 § 99",
+      "server": "104.19.38.8",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 52 § 100",
+      "server": "104.19.46.56",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 53 § 101",
+      "server": "104.19.45.11",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 54 § 102",
+      "server": "104.19.38.88",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip5-4.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 55 § 103",
+      "server": "104.19.47.36",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 56 § 104",
+      "server": "104.26.0.50",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip5-4.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 57 § 105",
+      "server": "104.19.46.17",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 58 § 106",
+      "server": "104.19.21.71",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 59 § 107",
+      "server": "104.19.58.175",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 60 § 108",
+      "server": "104.19.47.32",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 61 § 109",
+      "server": "104.19.47.65",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 62 § 110",
+      "server": "104.19.47.45",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 63 § 111",
+      "server": "104.19.45.31",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 64 § 112",
+      "server": "104.19.45.42",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 65 § 113",
+      "server": "104.19.45.50",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 66 § 114",
+      "server": "104.19.46.59",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 67 § 115",
+      "server": "104.26.7.132",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 68 § 116",
+      "server": "104.19.46.27",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 69 § 117",
+      "server": "104.19.59.89",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 70 § 118",
+      "server": "104.19.55.49",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 71 § 119",
+      "server": "104.19.45.17",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 72 § 120",
+      "server": "104.19.45.47",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 73 § 121",
+      "server": "104.19.42.49",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 74 § 122",
+      "server": "104.19.45.15",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 75 § 123",
+      "server": "104.19.47.80",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 76 § 124",
+      "server": "104.26.0.56",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 77 § 125",
+      "server": "104.19.38.12",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 78 § 126",
+      "server": "104.17.106.151",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 79 § 127",
+      "server": "104.19.46.39",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 80 § 128",
+      "server": "104.18.57.111",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 81 § 129",
+      "server": "104.19.51.232",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip005.dtku47.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 82 § 130",
+      "server": "172.67.130.140",
+      "server_port": 2082,
+      "uuid": "112ac36f-3f53-4e26-8371-d25c028e1b9a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "s1c.v2.v001sss.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 83 § 131",
+      "server": "104.16.148.244",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip005.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 84 § 132",
+      "server": "104.16.148.244",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip006.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 85 § 133",
+      "server": "104.16.232.76",
+      "server_port": 80,
+      "uuid": "7e7325be-5c04-400a-9f11-e7f51c9cb1a9",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "127.0.0.1.dl3.эврика.mrarsha.尤里卡специалист.醫生.wonkacapitano.buzz."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 86 § 134",
+      "server": "104.16.60.8",
+      "server_port": 2086,
+      "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/afrhms16v.bestxray.buzz/linkws",
+        "headers": {
+          "Host": "y-old-mode-9c0diab.wiriy73548.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 87 § 135",
+      "server": "104.16.67.38",
+      "server_port": 2082,
+      "uuid": "441da342-ce90-441e-bff9-d2ceb55e68ca",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/ivideos.sbs/linkws",
+        "headers": {
+          "Host": "late-wave-1d0a.lesijo3430.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 88 § 136",
+      "server": "104.17.106.151",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 89 § 137",
+      "server": "104.17.106.151",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 90 § 138",
+      "server": "104.17.106.151",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 91 § 139",
+      "server": "104.17.106.171",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 92 § 140",
+      "server": "104.17.106.171",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 93 § 141",
+      "server": "104.18.57.111",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip11.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 94 § 142",
+      "server": "104.18.57.111",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 95 § 143",
+      "server": "104.18.57.121",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 96 § 144",
+      "server": "104.18.57.121",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 97 § 145",
+      "server": "104.19.123.11",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip11.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 98 § 146",
+      "server": "104.19.123.11",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 99 § 147",
+      "server": "104.19.123.31",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 100 § 148",
+      "server": "104.19.123.31",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 101 § 149",
+      "server": "104.19.21.220",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 102 § 150",
+      "server": "104.19.21.220",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 103 § 151",
+      "server": "104.19.21.230",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 104 § 152",
+      "server": "104.19.21.230",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 105 § 153",
+      "server": "104.19.21.240",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 106 § 154",
+      "server": "104.19.21.240",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 107 § 155",
+      "server": "104.19.21.63",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 108 § 156",
+      "server": "104.19.21.63",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 109 § 157",
+      "server": "104.19.21.71",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 110 § 158",
+      "server": "104.19.21.71",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 111 § 159",
+      "server": "104.19.21.71",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 112 § 160",
+      "server": "104.19.21.73",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 113 § 161",
+      "server": "104.19.21.73",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 114 § 162",
+      "server": "104.19.21.81",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 115 § 163",
+      "server": "104.19.32.216",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 116 § 164",
+      "server": "104.19.32.216",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 117 § 165",
+      "server": "104.19.32.226",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 118 § 166",
+      "server": "104.19.32.226",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 119 § 167",
+      "server": "104.19.32.46",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip006.dtku47.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 120 § 168",
+      "server": "104.19.32.88",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip5-4.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 121 § 169",
+      "server": "104.19.38.12",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 122 § 170",
+      "server": "104.19.38.12",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 123 § 171",
+      "server": "104.19.38.18",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 124 § 172",
+      "server": "104.19.38.18",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 125 § 173",
+      "server": "104.19.38.22",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 126 § 174",
+      "server": "104.19.38.22",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 127 § 175",
+      "server": "104.19.38.62",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip005.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 128 § 176",
+      "server": "104.19.38.62",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip006.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 129 § 177",
+      "server": "104.19.38.62",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip006.dtku47.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 130 § 178",
+      "server": "104.19.38.8",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 131 § 179",
+      "server": "104.19.38.8",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 132 § 180",
+      "server": "104.19.42.49",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip11.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 133 § 181",
+      "server": "104.19.42.49",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 134 § 182",
+      "server": "104.19.42.49",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 135 § 183",
+      "server": "104.19.42.79",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 136 § 184",
+      "server": "104.19.42.79",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 137 § 185",
+      "server": "104.19.45.11",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 138 § 186",
+      "server": "104.19.45.13",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 139 § 187",
+      "server": "104.19.45.13",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 140 § 188",
+      "server": "104.19.45.15",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 141 § 189",
+      "server": "104.19.45.17",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 142 § 190",
+      "server": "104.19.45.17",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 143 § 191",
+      "server": "104.19.45.19",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 144 § 192",
+      "server": "104.19.45.19",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 145 § 193",
+      "server": "104.19.45.19",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 146 § 194",
+      "server": "104.19.45.31",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 147 § 195",
+      "server": "104.19.45.31",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 148 § 196",
+      "server": "104.19.45.35",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 149 § 197",
+      "server": "104.19.45.42",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 150 § 198",
+      "server": "104.19.45.42",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 151 § 199",
+      "server": "104.19.45.47",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 152 § 200",
+      "server": "104.19.45.50",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 153 § 201",
+      "server": "104.19.45.90",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 154 § 202",
+      "server": "104.19.45.90",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 155 § 203",
+      "server": "104.19.46.103",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 156 § 204",
+      "server": "104.19.46.103",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 157 § 205",
+      "server": "104.19.46.123",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 158 § 206",
+      "server": "104.19.46.17",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 159 § 207",
+      "server": "104.19.46.17",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 160 § 208",
+      "server": "104.19.46.22",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 161 § 209",
+      "server": "104.19.46.233",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip002-2.dtku47.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 162 § 210",
+      "server": "104.19.46.27",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 163 § 211",
+      "server": "104.19.46.27",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 164 § 212",
+      "server": "104.19.46.33",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 165 § 213",
+      "server": "104.19.46.36",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 166 § 214",
+      "server": "104.19.46.39",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 167 § 215",
+      "server": "104.19.46.39",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 168 § 216",
+      "server": "104.19.46.39",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 169 § 217",
+      "server": "104.19.46.56",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 170 § 218",
+      "server": "104.19.46.56",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 171 § 219",
+      "server": "104.19.46.59",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 172 § 220",
+      "server": "104.19.46.59",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip13.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 173 § 221",
+      "server": "104.19.47.122",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 174 § 222",
+      "server": "104.19.47.122",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 175 § 223",
+      "server": "104.19.47.22",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 176 § 224",
+      "server": "104.19.47.22",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 177 § 225",
+      "server": "104.19.47.27",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 178 § 226",
+      "server": "104.19.47.27",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 179 § 227",
+      "server": "104.19.47.27",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 180 § 228",
+      "server": "104.19.47.32",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 181 § 229",
+      "server": "104.19.47.45",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 182 § 230",
+      "server": "104.19.47.65",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 183 § 231",
+      "server": "104.19.47.65",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip11-2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 184 § 232",
+      "server": "104.19.47.65",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 185 § 233",
+      "server": "104.19.47.75",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 186 § 234",
+      "server": "104.19.47.77",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 187 § 235",
+      "server": "104.19.47.79",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 188 § 236",
+      "server": "104.19.47.79",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 189 § 237",
+      "server": "104.19.47.79",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 190 § 238",
+      "server": "104.19.47.80",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 191 § 239",
+      "server": "104.19.47.80",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 192 § 240",
+      "server": "104.19.47.88",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 193 § 241",
+      "server": "104.19.47.88",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 194 § 242",
+      "server": "104.19.47.88",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 195 § 243",
+      "server": "104.19.55.49",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip11.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 196 § 244",
+      "server": "104.19.55.49",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 197 § 245",
+      "server": "104.19.55.79",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 198 § 246",
+      "server": "104.19.57.24",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 199 § 247",
+      "server": "104.19.57.24",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 200 § 248",
+      "server": "104.19.57.4",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 201 § 249",
+      "server": "104.19.57.4",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip11.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 202 § 250",
+      "server": "104.19.57.4",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 203 § 251",
+      "server": "104.19.58.175",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 204 § 252",
+      "server": "104.19.58.175",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 205 § 253",
+      "server": "104.19.58.185",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 206 § 254",
+      "server": "104.19.58.185",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 207 § 255",
+      "server": "104.19.59.89",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 208 § 256",
+      "server": "104.19.59.89",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 209 § 257",
+      "server": "104.19.59.99",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 210 § 258",
+      "server": "104.20.17.186",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 211 § 259",
+      "server": "104.20.17.186",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 212 § 260",
+      "server": "104.20.17.196",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 213 § 261",
+      "server": "104.20.25.146",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 214 § 262",
+      "server": "104.20.25.146",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 215 § 263",
+      "server": "104.20.25.146",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 216 § 264",
+      "server": "104.20.25.146",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 217 § 265",
+      "server": "104.20.25.166",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 218 § 266",
+      "server": "104.20.25.166",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 219 § 267",
+      "server": "104.20.74.91",
+      "server_port": 80,
+      "uuid": "7e7325be-5c04-400a-9f11-e7f51c9cb1a9",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "127.0.0.1.dl3.эврика.mrarsha.尤里卡специалист.醫生.wonkacapitano.buzz."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 220 § 268",
+      "server": "104.21.83.146",
+      "server_port": 80,
+      "uuid": "7e7325be-5c04-400a-9f11-e7f51c9cb1a9",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "127.0.0.1.dl3.эврика.mrarsha.尤里卡специалист.醫生.wonkacapitano.buzz."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 221 § 269",
+      "server": "104.26.0.56",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 222 § 270",
+      "server": "104.26.0.56",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 223 § 271",
+      "server": "104.26.0.66",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 224 § 272",
+      "server": "104.26.7.132",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 225 § 273",
+      "server": "104.26.7.132",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 226 § 274",
+      "server": "104.26.7.152",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 227 § 275",
+      "server": "104.26.7.152",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 228 § 276",
+      "server": "108.162.193.52",
+      "server_port": 80,
+      "uuid": "7e7325be-5c04-400a-9f11-e7f51c9cb1a9",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "127.0.0.1.dl3.эврика.mrarsha.尤里卡специалист.醫生.wonkacapitano.buzz."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 229 § 277",
+      "server": "141.101.114.249",
+      "server_port": 80,
+      "uuid": "b2413a5a-d5d0-4447-b6d7-6dbcd2989a35",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "dl2.127.0.0.1.востейcontrol.控制.kонтроль農達懲罰.cводкаhо.wonkacapitano.buzz."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 230 § 278",
+      "server": "172.64.166.12",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 231 § 279",
+      "server": "172.64.166.16",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 232 § 280",
+      "server": "172.64.166.2",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 233 § 281",
+      "server": "172.64.166.22",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 234 § 282",
+      "server": "172.64.166.28",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 235 § 283",
+      "server": "172.64.166.33",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 236 § 284",
+      "server": "172.64.166.9",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 237 § 285",
+      "server": "172.64.167.19",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 238 § 286",
+      "server": "172.64.167.22",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 239 § 287",
+      "server": "172.64.167.29",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 240 § 288",
+      "server": "172.64.167.35",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 241 § 289",
+      "server": "172.64.167.44",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 242 § 290",
+      "server": "172.64.167.5",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 243 § 291",
+      "server": "172.64.175.213",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip11.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 244 § 292",
+      "server": "172.64.175.213",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 245 § 293",
+      "server": "172.64.175.223",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 246 § 294",
+      "server": "172.64.175.223",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 247 § 295",
+      "server": "172.64.175.88",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 248 § 296",
+      "server": "172.64.175.88",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 249 § 297",
+      "server": "172.64.175.88",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 250 § 298",
+      "server": "172.64.194.76",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 251 § 299",
+      "server": "172.64.194.76",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 252 § 300",
+      "server": "172.64.194.76",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 253 § 301",
+      "server": "172.64.194.76",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 254 § 302",
+      "server": "172.64.198.229",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 255 § 303",
+      "server": "172.64.198.229",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 256 § 304",
+      "server": "172.64.198.249",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 257 § 305",
+      "server": "172.64.198.249",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 258 § 306",
+      "server": "172.64.198.249",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 259 § 307",
+      "server": "172.64.233.15",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 260 § 308",
+      "server": "172.64.233.17",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 261 § 309",
+      "server": "172.64.233.24",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 262 § 310",
+      "server": "172.64.233.27",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 263 § 311",
+      "server": "172.64.233.32",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 264 § 312",
+      "server": "172.64.233.35",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 265 § 313",
+      "server": "172.64.233.37",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 266 § 314",
+      "server": "172.64.233.43",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 267 § 315",
+      "server": "172.64.233.7",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 268 § 316",
+      "server": "172.64.233.9",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 269 § 317",
+      "server": "172.64.99.22",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 270 § 318",
+      "server": "172.64.99.22",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip11.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 271 § 319",
+      "server": "172.64.99.32",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 272 § 320",
+      "server": "172.64.99.32",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 273 § 321",
+      "server": "172.67.74.122",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 274 § 322",
+      "server": "172.67.74.122",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 275 § 323",
+      "server": "23.162.200.227",
+      "server_port": 443,
+      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "security": "auto",
+      "authenticated_length": true,
+      "tls": {
+        "enabled": true,
+        "server_name": "23.162.200.227",
+        "alpn": "http/1.1",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/linkvws",
+        "headers": {
+          "Host": "23.162.200.227"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 276 § 324",
+      "server": "23.227.38.13",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 277 § 325",
+      "server": "23.227.38.13",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 278 § 326",
+      "server": "23.227.38.3",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 279 § 327",
+      "server": "23.227.38.3",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip1.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 280 § 328",
+      "server": "russia.com",
+      "server_port": 80,
+      "uuid": "06d65689-a12a-467c-9ff8-0363fe90c0b4",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/api/v3/download.getFile",
+        "headers": {
+          "Host": "sssub.v2.001.ssrsub.com"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 281 § 329",
+      "server": "cfcdn2.sanfencdn9.com",
+      "server_port": 2052,
+      "uuid": "e093ca94-9890-4b06-8384-08572c5d3215",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/video/3YKfzGw4",
+        "headers": {
+          "Host": "rpmlybgzsg2.yofnhkfc.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 282 § 330",
+      "server": "23.227.38.3",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 283 § 331",
+      "server": "104.16.61.8",
+      "server_port": 2086,
+      "uuid": "441da342-ce90-441e-bff9-d2ceb55e68ca",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/ivideos.sbs/linkws",
+        "headers": {
+          "Host": "vmess.taxar71054.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 284 § 332",
+      "server": "104.18.25.92",
+      "server_port": 2052,
+      "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/afrhms16v.bestxray.buzz/linkws",
+        "headers": {
+          "Host": "mysan2.jaquay22.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 285 § 333",
+      "server": "104.16.60.8",
+      "server_port": 2082,
+      "uuid": "441da342-ce90-441e-bff9-d2ceb55e68ca",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/ivideos.sbs/linkws",
+        "headers": {
+          "Host": "82uple-bird-b087.pemed58443.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 286 § 334",
+      "server": "104.16.60.8",
+      "server_port": 2082,
+      "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/afrhms16v.bestxray.buzz/linkws",
+        "headers": {
+          "Host": "worker-noisy-paper-fa00.hetoj18200.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 287 § 335",
+      "server": "104.25.144.171",
+      "server_port": 80,
+      "uuid": "7e7325be-5c04-400a-9f11-e7f51c9cb1a9",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "127.0.0.1.dl3.эврика.mrarsha.尤里卡специалист.醫生.wonkacapitano.buzz."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 288 § 336",
+      "server": "172.67.204.84",
+      "server_port": 2052,
+      "uuid": "6dbb6c48-ff95-502a-a92d-4ca8189308f0",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "De1.vmess.site."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 289 § 337",
+      "server": "108.162.192.63",
+      "server_port": 80,
+      "uuid": "b2413a5a-d5d0-4447-b6d7-6dbcd2989a35",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "dl2.127.0.0.1.востейcontrol.控制.kонтроль農達懲罰.cводкаhо.wonkacapitano.buzz."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 290 § 338",
+      "server": "172.64.99.22",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 291 § 339",
+      "server": "dztw.kunoss.life",
+      "server_port": 80,
+      "uuid": "e1126b3d-71a4-4030-bb0d-065fd09b3b83",
+      "security": "auto",
+      "authenticated_length": true,
+      "tls": {
+        "enabled": true,
+        "server_name": "www.python.org",
+        "alpn": "http/1.1",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/nishidashabi",
+        "headers": {
+          "Host": "www.python.org"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 292 § 340",
+      "server": "104.19.51.232",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip006.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 293 § 341",
+      "server": "23.227.38.5",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip006.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 294 § 342",
+      "server": "104.19.21.81",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn3.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 295 § 343",
+      "server": "cfcdn1.sanfencdn9.com",
+      "server_port": 2052,
+      "uuid": "e093ca94-9890-4b06-8384-08572c5d3215",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/video/DDC4btA8wc/",
+        "headers": {
+          "Host": "us2jdgv5GC7.fzbqfrse.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 296 § 344",
+      "server": "23.227.38.3",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip14.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 297 § 345",
+      "server": "104.19.46.123",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn2.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 298 § 346",
+      "server": "Zula.ir",
+      "server_port": 2052,
+      "uuid": "6dbb6c48-ff95-502a-a92d-4ca8189308f0",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "De1.vmess.site."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 299 § 347",
+      "server": "104.16.67.38",
+      "server_port": 8880,
+      "uuid": "a1655f51-1e20-4a92-8a11-b7ca30a7a353",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/afrhms07.xfixedfloat.cfd/linkws",
+        "headers": {
+          "Host": "7hss-butterfly-d4c3.fijetem432.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 300 § 348",
+      "server": "104.16.61.8",
+      "server_port": 2095,
+      "uuid": "441da342-ce90-441e-bff9-d2ceb55e68ca",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/ivideos.sbs/linkws",
+        "headers": {
+          "Host": "ep-sunset-9b11.kekic13319.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 301 § 349",
+      "server": "104.16.67.38",
+      "server_port": 2052,
+      "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/linde06.indiavideo.sbs/linkws",
+        "headers": {
+          "Host": "worker-lingering-fog-c021.gesofog870.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 302 § 350",
+      "server": "104.16.61.8",
+      "server_port": 2095,
+      "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/linde06.indiavideo.sbs/linkws",
+        "headers": {
+          "Host": "worker-lingering-fog-c021.gesofog870.workers.dev"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 303 § 351",
+      "server": "104.19.45.11",
+      "server_port": 2086,
+      "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip2.1457230.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 304 § 352",
+      "server": "104.17.148.22",
+      "server_port": 2082,
+      "uuid": "3ebb57a2-ee3f-4487-b082-53ea061f03a2",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "express.waltonweb.ir."
+        },
+        "max_early_data": 1024,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 305 § 353",
+      "server": "104.26.7.132",
+      "server_port": 2052,
+      "uuid": "d6b6d982-d52f-465a-b988-85670b23f64a",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "cdn1.freegradely.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 306 § 354",
+      "server": "104.20.74.91",
+      "server_port": 80,
+      "uuid": "b2413a5a-d5d0-4447-b6d7-6dbcd2989a35",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "dl2.127.0.0.1.востейcontrol.控制.kонтроль農達懲罰.cводкаhо.wonkacapitano.buzz."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 307 § 355",
+      "server": "104.21.69.44",
+      "server_port": 2052,
+      "uuid": "6dbb6c48-ff95-502a-a92d-4ca8189308f0",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "De1.vmess.site."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇺🇸 美国_Telegram@kxswa 308 § 356",
+      "server": "Zula.ir",
+      "server_port": 2052,
+      "uuid": "6dbb6c48-ff95-502a-a92d-4ca8189308f0",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess",
+        "headers": {
+          "Host": "De1.vmess.site."
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇲🇾 马来西亚_Telegram@kxswa § 357",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12067,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "科威特_Telegram@kxswa § 358",
+      "server": "89.107.10.65",
+      "server_port": 51348,
+      "method": "chacha20-ietf-poly1305",
+      "password": "WM5adrXijpwApm1wLsEB3WFSCrG9aQ6QAJjVc2btj73FvBnw"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 加拿大_Telegram@kxswa § 359",
+      "server": "144.217.81.44",
+      "server_port": 443,
+      "password": "4c4dfa50-e321-11ee-9b28-1239d0255272",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 加拿大_Telegram@kxswa 2 § 360",
+      "server": "168.138.73.206",
+      "server_port": 40003,
+      "password": "57edfecf-5694-4a34-8072-54a4f0636a62",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇦 加拿大_Telegram@kxswa 3 § 361",
+      "server": "142.4.216.225",
+      "server_port": 80,
+      "method": "chacha20-ietf-poly1305",
+      "password": "JIhN6rBKkaEboLNXVSv5rq"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇦 加拿大_Telegram@kxswa 4 § 362",
+      "server": "23.154.136.51",
+      "server_port": 5499,
+      "method": "aes-256-gcm",
+      "password": "lGqs95QkFHo2NV"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇦 加拿大_Telegram@kxswa 5 § 363",
+      "server": "23.154.136.51",
+      "server_port": 8888,
+      "method": "aes-256-gcm",
+      "password": "Y6R9pAtvxxzmGC"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇦 加拿大_Telegram@kxswa 6 § 364",
+      "server": "23.154.136.51",
+      "server_port": 8118,
+      "method": "aes-256-gcm",
+      "password": "cdBIDV42DCwnfIN"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇦 加拿大_Telegram@kxswa 7 § 365",
+      "server": "23.154.136.51",
+      "server_port": 6697,
+      "method": "aes-256-gcm",
+      "password": "TEzjfAYq2IjtuoS"
+    },
+    {
+      "type": "vmess",
+      "tag": "🇨🇦 加拿大_Telegram@kxswa 8 § 366",
+      "server": "ip002.dtku47.xyz",
+      "server_port": 2086,
+      "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/github.com/Alvin9999",
+        "headers": {
+          "Host": "ip002.dtku47.xyz"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇳🇱 荷兰_Telegram@kxswa § 367",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12074,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇰🇷 韩国_Telegram@kxswa § 368",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12041,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇰🇷 韩国_Telegram@kxswa 2 § 369",
+      "server": "13.125.189.232",
+      "server_port": 14148,
+      "password": "WMhDWJrcvJsf",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇰🇷 韩国_Telegram@kxswa 3 § 370",
+      "server": "13.125.88.136",
+      "server_port": 14146,
+      "password": "rsGlIcHjItV4",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 法国_Telegram@kxswa § 371",
+      "server": "193.70.112.90",
+      "server_port": 443,
+      "password": "fc1e07b5-840b-4446-8232-94b0606f2e0d",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 法国_Telegram@kxswa 2 § 372",
+      "server": "51.210.182.170",
+      "server_port": 443,
+      "password": "1038bc70-fe01-11ee-a6a2-1239d0255272",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 法国_Telegram@kxswa 3 § 373",
+      "server": "51.210.182.170",
+      "server_port": 443,
+      "password": "278fff60-fc3a-11ee-a4a6-1239d0255272",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 法国_Telegram@kxswa 4 § 374",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12065,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 法国_Telegram@kxswa 5 § 375",
+      "server": "fr1.test3.net",
+      "server_port": 443,
+      "password": "2bf3db70-359e-11ef-93fe-1239d0255272",
+      "tls": {
+        "enabled": true,
+        "server_name": "fr1.test3.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 法国_Telegram@kxswa 6 § 376",
+      "server": "15.237.249.200",
+      "server_port": 14166,
+      "password": "4)WdbtVK4cY3",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇫🇷 法国_Telegram@kxswa 7 § 377",
+      "server": "146.19.75.41",
+      "server_port": 9350,
+      "method": "chacha20-ietf-poly1305",
+      "password": "PY2fiJfDCR5dktvS9dLYbI"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇫🇷 法国_Telegram@kxswa 8 § 378",
+      "server": "146.19.75.41",
+      "server_port": 9350,
+      "method": "chacha20-ietf-poly1305",
+      "password": "UkS1nSzQR58Ob0JCF5PyR3"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 法国_Telegram@kxswa 9 § 379",
+      "server": "fr3-full.privateip.net",
+      "server_port": 443,
+      "password": "fc1e07b5-840b-4446-8232-94b0606f2e0d",
+      "tls": {
+        "enabled": true,
+        "server_name": "fr3-full.privateip.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "厄瓜多尔_Telegram@kxswa § 380",
+      "server": "179.49.5.114",
+      "server_port": 989,
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇷🇺 俄罗斯_Telegram@kxswa § 381",
+      "server": "213.156.137.67",
+      "server_port": 989,
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇷🇺 俄罗斯_Telegram@kxswa 2 § 382",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12075,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇷🇺 俄罗斯_Telegram@kxswa 3 § 383",
+      "server": "193.233.80.34",
+      "server_port": 36981,
+      "method": "chacha20-ietf-poly1305",
+      "password": "YY98ILC8HkTKeYI6epCbKF"
+    },
+    {
+      "type": "trojan",
+      "tag": "🇷🇺 俄罗斯_Telegram@kxswa 4 § 384",
+      "server": "176.32.35.167",
+      "server_port": 1007,
+      "password": "85bce006-4885-11ee-8792-f23c9164ca5d",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 德国_Telegram@kxswa § 385",
+      "server": "cn2.cdn.xfltd-cdn.top",
+      "server_port": 12070,
+      "password": "6c4662f8-9e18-4616-8f32-2dba988f497f",
+      "tls": {
+        "enabled": true,
+        "server_name": "cdn.alibaba.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 德国_Telegram@kxswa 2 § 386",
+      "server": "54.93.239.236",
+      "server_port": 14175,
+      "password": "ckf1EDdH2uYR",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 德国_Telegram@kxswa 3 § 387",
+      "server": "18.184.134.54",
+      "server_port": 14142,
+      "password": "PAh5oixZWwYR",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 德国_Telegram@kxswa 4 § 388",
+      "server": "103.252.90.93",
+      "server_port": 443,
+      "password": "7d2c1050-fc3a-11ee-9230-1239d0255272",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "冰岛_Telegram@kxswa § 389",
+      "server": "37.235.49.152",
+      "server_port": 989,
+      "method": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3"
+    },
+    {
+      "type": "trojan",
+      "tag": "比利时_Telegram@kxswa § 390",
+      "server": "57.180.38.99",
+      "server_port": 14145,
+      "password": "LrIRMIaVqFws",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇦🇺 澳大利亚_Telegram@kxswa § 391",
+      "server": "43.207.201.222",
+      "server_port": 14148,
+      "password": "VxvpJD7dmhbP",
+      "tls": {
+        "enabled": true,
+        "disable_sni": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    }
+  ]
+}
